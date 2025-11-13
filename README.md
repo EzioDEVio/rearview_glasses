@@ -157,4 +157,4 @@ void loop() {
 
 ---
 
-*(You can now upload this Markdown file to your GitHub “Helmet-HUD” or “Cyberdeck-Accessories” repo alongside the wiring PNG and Arduino sketch.)*
+
